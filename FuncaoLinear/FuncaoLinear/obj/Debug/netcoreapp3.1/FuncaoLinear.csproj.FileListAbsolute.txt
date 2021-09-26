@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\bin\Debug\netcoreapp3.1\FuncaoLinear.exe
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\bin\Debug\netcoreapp3.1\FuncaoLinear.deps.json
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\bin\Debug\netcoreapp3.1\FuncaoLinear.runtimeconfig.json
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\bin\Debug\netcoreapp3.1\FuncaoLinear.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\bin\Debug\netcoreapp3.1\FuncaoLinear.dll
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\bin\Debug\netcoreapp3.1\FuncaoLinear.pdb
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\obj\Debug\netcoreapp3.1\FuncaoLinear.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\obj\Debug\netcoreapp3.1\FuncaoLinear.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\obj\Debug\netcoreapp3.1\FuncaoLinear.AssemblyInfo.cs
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\obj\Debug\netcoreapp3.1\FuncaoLinear.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\obj\Debug\netcoreapp3.1\FuncaoLinear.dll
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\obj\Debug\netcoreapp3.1\FuncaoLinear.pdb
+C:\Users\usuario\source\repos\FuncaoLinear\FuncaoLinear\obj\Debug\netcoreapp3.1\FuncaoLinear.genruntimeconfig.cache
